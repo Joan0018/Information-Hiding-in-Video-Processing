@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Joan0018/SmartClassroom">
+  <a href="https://github.com/Joan0018/Information-Hiding-in-Video-Processing">
     <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-places/512/folder-red-video-icon.png" alt="Logo" width="80" height="80">
   </a>
 
