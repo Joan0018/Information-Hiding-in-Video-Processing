@@ -9,7 +9,7 @@
 
 |Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Plans   | Progress | Problems
 | :-------------|:-------------|:------------|:-------------|
-|`19 AUG 2022`|Go through installation guideline and setup the project. Install CMake and homebrew.|<div align="center">:heavy_check_mark:</div>|<div align="center">:x:</div>|
-|`20 AUG 2022`|Generate the build file and execute the program.|<div align="center">:heavy_check_mark:</div>|Not able to view the .yuv in mac and .266 file is 0 bytes.|
+|`19 AUG 2022`|<div align="justify"> Go through installation guideline and setup the project. Install CMake and homebrew. </div>|<div align="center">:heavy_check_mark:</div>|<div align="center">:x:</div>|
+|`20 AUG 2022`|<div align="justify"> Generate the build file and execute the program. </div>|<div align="center">:heavy_check_mark:</div>|<div align="justify"> Not able to view the .yuv in mac and .266 file is 0 bytes. </div>|
 
 
