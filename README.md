@@ -16,7 +16,7 @@
   <!-- Description Needed-->
   <p align="center">
     <!-- NEED ADDED AFTER FINAL REPORT RUN ORIGINALITY -->
-    <a href=""><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Joan0018/Information-Hiding-in-Video-Processing/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <a href="#table-of-content"><strong>Explore more »</strong></a>
   </p>
