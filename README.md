@@ -28,9 +28,10 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#introduction">Introduction</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#objective">Objectives</a></li>
+        <li><a href="#outcome">Expected Outcome</a></li>
       </ul>
     </li>
     <li>
@@ -62,12 +63,30 @@
 </a>
 
 
-<!-- ABOUT THE PROJECT -->
-<a id="about-the-project"><h2 style="display: inline-block">About The Project</h2></a>
+<!-- PROJECT INFORMATION-->
+<a id="introduction"></a>
+## Introduction
+<div align=justify>
+&nbsp;&nbsp;&nbsp; Information security has gained tremendous importance over the past few decades due to the massive growth of digital communications (Dalal, M. and and Juneja, M., 2021). Video information hiding is one of the most important strategies for providing various video services such as video authentication and augmentation. Video information hiding process refer to inserting various forms of featured information into video streams for security purposes (Thampi, S., 2004), such as inserting the watermarking into the video to represent the originality of the video (Merchant, Shabbir et al., 2003), or for video augmentation purposes, such as depthmap embedding, motion information embedding, and extended-color information. As a result, effective video information hiding techniques are important for a variety of new multimedia application. <br>
+&nbsp;&nbsp;&nbsp;Video information hiding technique for compressed video have recently gained a lot of attention, as videos are often stored and transmitted in compressed format. Existing compressed video information hiding methods, such as MPEG, H.264, and H.265/High Efficiency Video Coding (HEVC) have been thoroughly investigated in compression standards. Bhaumik, Arup et al. (2009) using the Least Significant Bit (LSB) approach to hide the data for high resolution AVI (Audio Video Interleave) videos and Singh, et al. (2010) using same method to hide each row of image pixels in multiple frames of the video. Paruchuri, J.K. et al. (2009) proposed an optimized framework by hiding the data into selective Discrete Cosine Transform (DCT) coefficient in compressed video. Y. Tew et al. (2014) modified the structure of coding block and non-zero transform coefficients to embed information. <br>
+&nbsp;&nbsp;&nbsp;Despite the success of the above information hiding techniques in previous video compression standards, little work has been done on the proprietary tools provided in the latest video compression standard H.266/Versatile Video Coding (VVC) to further improve information hiding methods. H.266/VVC (X. Liu et al., 2021) uses a hybrid coding framework, including prediction, transformation, quantization, and entropy coding, which was identified as the previous coding standard. However, VVC
+introduces many new compression tools to improve the compression efficiency. For internal prediction, VVC introduces some new mechanisms such as matrix-weighted internal prediction (MIP), multiple reference lines (MRL) and cross-component linear model (CCLM), which increases the flexibility of pattern selection and thus is potentially suitable for information hiding.
+</div>
 
+<a id="objective"></a>
+### Objectives
+<ol>
+  <li>Protect the secret data of the video by hiding the message in the video and not allowing anyone without the secret key to discover the presence of a "second message" in the played video.</li>
+  <li>Provide proper protection on data during transmission.</li>
+  <li>Provide an artistic and scientific way of communication for the video sending
+process.</li>
+</ol>
 
-<a id="built-with"><h2 style="display: inline-block">Built With</h2></a>
-
+<a id="outcome"></a>
+### Expected Outcome
+<div align="justify">
+&nbsp;&nbsp;&nbsp;Due to the advancement of Information Technology, the rapid advances in publishing and broadcasting technology require an alternative solution to hiding information. Copyrighting resources such as audio, video and other digital forms can lead to large-scale unauthorized copying. Throughout the research, solve the problem of video information hiding in various information management, at the same time, providing an easier way for hiding information during information transmission through video.
+</div>
 
 
 <!-- GETTING STARTED -->
