@@ -179,4 +179,8 @@ _A Special Thanks To_
 
 <!-- REFERENCES -->
 <a id="references"><h2 style="display: inline-block">References</h2></a>
-<a href="https://www.hhi.fraunhofer.de/en/departments/vca/technologies-and-solutions/h266-vvc.html">[1]</a>Heinrich-Hertz-Institut, F., 2022, H.266 / VVC – Fraunhofer Heinrich Hertz Institute, viewed 20 August 2022. <<https://www.hhi.fraunhofer.de/en/departments/vca/technologies-and-solutions/h266-vvc.html>>
+<div align="justify">
+
+<a href="https://www.hhi.fraunhofer.de/en/departments/vca/technologies-and-solutions/h266-vvc.html">[1] </a>Heinrich-Hertz-Institut, F., 2022, H.266 / VVC – Fraunhofer Heinrich Hertz Institute, viewed 20 August 2022. <<https://www.hhi.fraunhofer.de/en/departments/vca/technologies-and-solutions/h266-vvc.html>>
+
+</div>
